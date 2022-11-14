@@ -1,14 +1,13 @@
 <h1 align="center">~ ~ ~ Hello 🌎, I'm Carl G ~ ~ ~</h1>
-<h3 align="center">A passionate frontend developer based in the USA</h3>
+<h3 align="center">A Frontend Developer (going back to Full-Stack) based in the USA</h3>
 <p align="center">
   <img height="500px"  alt="Cat staring at sky" src="https://i.pinimg.com/originals/32/44/01/324401aa18cc80c55f338dcd4674cb80.gif" />
 </p>
 
 - 🌱 I’m currently learning how to make a TypeScript, Python, and AWS, and making a nicer Github Profile.
 - 🔭 I’m currently working on a secret project.
-- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on an open source project that will better the world.
-- 🤔 I’m looking to connect with other Frontend Developers in NYC.
+- 🤔 I’m looking to connect with other Frontend Developers.
 - 💬 Ask me about my experience switching to a Software Engineering career, Frontend Development work, JS, or React.js
 - 😄 Pronouns: He/Him
 
