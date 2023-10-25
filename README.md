@@ -1,5 +1,5 @@
 <h1 align="center">~ ~ ~ Hello 🌎, I'm Carl G ~ ~ ~</h1>
-<h3 align="center">A Frontend Developer (going back to Full-Stack) based in the USA</h3>
+<h3 align="center">A Full-Stack Engineer based in the USA</h3>
 <p align="center">
   <img height="500px"  alt="Cat staring at sky" src="https://i.pinimg.com/originals/32/44/01/324401aa18cc80c55f338dcd4674cb80.gif" />
 </p>
